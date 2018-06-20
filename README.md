@@ -24,3 +24,6 @@ Testing a Feed Reader app using Jasmine testing framework.
 4. Suite - New Feed Selection:
 * Test to verify that when a new feed is loaded by the loadFeed function that the content actually changes.
 
+# Run the application
+opne index.html file, then you will see page of feeds contains Jasmine program. Click of each spec to check out if there are any problem. If the green colore arise, there are no problem in the page. Also, the red colore if its appear thats mean you have a problem. 
+app.js and feedreader.js, these two files you should find an fix the problem in it.
